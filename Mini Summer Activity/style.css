@@ -1,0 +1,20 @@
+p {
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+body {
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    color: aqua;
+    text-align: center;
+}
+
+ul {
+    color: blueviolet;
+    text-align: center;
+}
